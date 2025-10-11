@@ -13,7 +13,7 @@ Ce dépôt contient une archive des **newsletters** publiées chaque dimanche (a
 
 Les lettres hebdomaidaires sont organisées **par mois** dans le dossier [newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters).
 
-_Chaque dossier contient :_
+<ins>Chaque dossier contient :</ins>
 
 - une version PDF prête à partager.
 - une version Markdown pour une lecture rapide.
