@@ -1,1 +1,51 @@
-echo " html> body> h1>Bienvenue sur ma page GitHub /h1> /body> /html>" > index.html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpaceCal-Fr - Newsletters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .pdf-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .pdf-list li {
+            background-color: #f4f4f4;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .pdf-list a {
+            text-decoration: none;
+            color: #0066cc;
+        }
+        .pdf-list a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>SpaceCal-Fr Newsletters</h1>
+    
+    <h2>Newsletters 2025</h2>
+    <ul class="pdf-list">
+        <li><a href="docs/newsletters/2025-10/SpaceCal-Fr_Newsletter_20251006.md">Newsletter du 06 octobre (Markdown)</a></li>
+        <li><a href="docs/newsletters/2025-10/SpaceCal-Fr_Newsletter_20251006.md.pdf">Newsletter du 06 octobre (PDF)</a></li>
+    </ul>
+
+    <footer>
+        <p>© 2025 SpaceCal-Fr. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
