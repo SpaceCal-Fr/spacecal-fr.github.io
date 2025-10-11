@@ -1,12 +1,11 @@
-# SpaceCal-Fr.github.io
-# 🚀 SpaceCal - Newsletter des événements du spatial en France
+# 🚀 SpaceCal-fr.github.io - Newsletter des événements du spatial en France
 
-Bienvenue sur le dépôt officiel de **SpaceCal**, les site qui répertorie gratuitement tous les événements professionnels et grand public du spatial se déroulant en France meétropolitaine et outre-mer.
+Bienvenue sur le dépôt officiel de **SpaceCal-Fr**, le site qui répertorie gratuitement tous les événements professionnels et grands publics du spatial se déroulant en France meétropolitaine et outre-mer.
 
 ---
 
 ## 📡 À propos
-Ce dépôt contient les **newsletters** publiées chaque dimanche (au format pdf et markdown) résumant les événements à venir dans le domaine spatial.
+Ce dépôt contient une archive des **newsletters** publiées chaque dimanche (au format pdf et markdown) résumant les événements à venir dans le domaine spatial.
 
 ---
 
@@ -21,7 +20,7 @@ _Chaque dossier contient :_
 
 
 ## 📥 Comment télécharger les newsletters ?
-Les fichiers PDF et Markdown sont hébergés via **GitHub Pages** et accessibles directement :
+Les fichiers PDF et Markdown sont hébergés via **GitHub Pages** et accessibles directement par ici
 👉 [Lien vers les newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters)
 
 ## 🌟 Contribuer
