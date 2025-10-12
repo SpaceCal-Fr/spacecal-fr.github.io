@@ -6,13 +6,14 @@ Bienvenue sur le dépôt officiel de **SpaceCal-Fr**, le site qui répertorie gr
 ---
 
 ## 📡 À propos
-Ce dépôt contient une archive des **newsletters** publiées chaque dimanche (au format pdf et markdown) résumant les événements à venir dans le domaine spatial.
+Ce dépôt contient une archive des **newsletters** publiées chaque dimanche (au format pdf et markdown) résumant les événements à venir dans le domaine spatial.  
+Sa date d'ouverture est le 5 octobre 2025.
 
 ---
 
 ## 🗂️ Structure/Organisation
 
-Les lettres hebdomaidaires sont organisées **par mois** dans le dossier [newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters).
+Les lettres hebdomadaires sont organisées **par années/mois** dans le dossier [newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters).
 
 <ins>Chaque dossier contient :</ins>
 
@@ -42,6 +43,6 @@ Pour proposer un événement à ajouter sur le site, écrivez-nous à [event@spa
 ## 📅 Calendrier
 
 Publication et mise à disposition : tous les dimanches soirs.  
-Source : les événements sont extraits du site 👉 [https://www.spacecal.fr](https://www.spacecal.fr).
-
+Source : les événements sont extraits du site 👉 [https://www.spacecal.fr](https://www.spacecal.fr).  
+Licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr) : Attribution - Utilisation non commerciale - Pas d’Œuvre dérivée - 4.0 International 
 
