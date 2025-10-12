@@ -15,7 +15,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 
 1. ***Cérémonie d'inauguration du buste en hommage à Hubert Reeves*** : à 11h45 devant le 1 rue Jacob, Paris VIe.
  
-2. ***Space Week de l'Estia*** : événement ouvert aux étudiants, chercheurs, amateurs de spatial, mais aussi aux entreprises du secteur ou aux passionnés de nouvelles technologies et d’innovation scientifique. Au programme : exposition, hackathon, présentations, ateliers et rencontres d'astronomies. Jusqu'au 19 ocotbre à l'ESTIA, Bidart (64).
+2. ***Space Week de l'Estia*** : événement ouvert aux étudiants, chercheurs, amateurs de spatial, mais aussi aux entreprises du secteur ou aux passionnés de nouvelles technologies et d’innovation scientifique. Au programme : exposition, hackathon, présentations, ateliers et rencontres d'astronomies. Jusqu'au 19 octobre à l'ESTIA, Bidart (64).
 
 3. ***Colloque national CMB-France*** : initiative CMB-France qui vise à mettre en place une animation scientifique au niveau national autour des études de cosmologie du fond diffus (CMB), avec un programme comprenant des conférences et des sessions scientifiques spécialisées. Début à 14h à l'Institut d'astrophysique de Paris, Paris (XIVe).
 
