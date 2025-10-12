@@ -13,7 +13,7 @@ Sa date d'ouverture est le 5 octobre 2025.
 
 ## 🗂️ Structure/Organisation
 
-Les lettres hebdomadaires sont organisées **par années/mois** dans le dossier [newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters).
+Les lettres hebdomadaires sont organisées **par années/mois** dans le dossier [/docs/newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters).
 
 <ins>Chaque dossier contient :</ins>
 
