@@ -11,7 +11,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 ⤵️🧶❤️🛰️
 
 ## Lundi 13 octobre
-5 événements :
+5 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 1. ***Cérémonie d'inauguration du buste en hommage à Hubert Reeves*** : à 11h45 devant le 1 rue Jacob, Paris VIe.
  
@@ -25,7 +25,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 
 
 ## Mardi 14 octobre
-6 événements :
+6 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 
 1. ***Les "Décrets du Soleil" : instruments d'astronomie décrits par Ptolémée*** : par Camille Demouchy, doctorant à l'Université Nice Côte d'Azur, dans le cadre des conférences mensuelles de l’association Aquila. À 18h au Campus de Valrose - amphi informatique, Nice (06).
@@ -42,7 +42,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 
 
 ## Mercredi 15 octobre
-6 événements :
+6 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 
 1. ***Satellites sous surveillance*** : par Lionel Birée, ingénieur de recherche en aérospatiale et fondateur d'ELIOS-SPACE, pour le Club d’astronomie Albert Einstein. Début à 20h30 au Club d’astronomie Albert Einstein, Chaponnay (69).
@@ -59,7 +59,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 
 
 ## Jeudi 16 octobre
-4 événements :
+4 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 
 1. ***MobiliT.AI*** : 6e édition de ce rassemblement international de la communauté des experts en intelligence artificielle (IA) dédiée aux systèmes critiques de la mobilité (aéronautique, automobile, ferroviaire, spatial, drones, etc.). Début à 9h à La Cité, Toulouse (31).
@@ -72,7 +72,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 
 
 ## Vendredi 17 octobre
-4 événements :
+4 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 
 1. ***Congrès Interdisciplinaire sur les Mondes Extrêmes (CIME)*** : 1re édition de cet événement qui a pour objectif de favoriser les échanges entre différentes disciplines scientifiques et de renforcer les liens entre le monde académique et les opérateurs de terrain engagés dans les environnements extrêmes. Au programme, six conférences données par des personnalités engagées sur le terrain, dans les milieux polaires, sous-marins, désertiques ou spatiaux. Accueil dès 8h30 à l'Isaé-Supaéro, Toulouse (31).
@@ -85,7 +85,7 @@ C'est dimanche et voici votre rendez-vous hebdomadaire des nombreux et passionna
 
 
 ## Samedi 18 octobre
-4 événements :
+4 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 1. ***Symposium Camille Flammarion*** : rendez-vous organisé dans le cadre du centenaire Camille Flammarion avec en  soirée si la météo le permet, une observation du ciel de nuit. Début à 10h à la salle des fêtes de Montigny-le-Roi (52).
 
