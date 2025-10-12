@@ -6,8 +6,9 @@ Bienvenue sur le dépôt officiel de **SpaceCal-Fr**, le site qui répertorie gr
 ---
 
 ## 📡 À propos
-Ce dépôt contient une archive des **newsletters** publiées chaque dimanche (au format pdf et markdown) résumant les événements à venir dans le domaine spatial.  
-Sa date d'ouverture est le 5 octobre 2025.
+Ce dépôt contient une archive en double format des **newsletters** publiées chaque dimanche résumant les événements à venir dans le domaine spatial.  
+
+Sa date d'ouverture à la communauté est le 5 octobre 2025.
 
 ---
 
@@ -44,7 +45,7 @@ Pour proposer un événement à ajouter sur le site, écrivez-nous à [event@spa
 
 ## 📅 Calendrier
 
-1. Publication et mise à disposition : tous les dimanches soir.  
+1. Publication et mise à disposition : chaque dimanche soir (hors périodes de congés).  
 2. Source : les événements sont extraits du site 👉 [https://www.spacecal.fr](https://www.spacecal.fr).  
 3. Licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr) : Attribution - Utilisation non commerciale - Pas d’Œuvre dérivée - 4.0 International.
 
