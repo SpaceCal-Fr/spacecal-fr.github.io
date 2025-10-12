@@ -1,6 +1,7 @@
-# 🚀 SpaceCal-fr.github.io - Newsletter des événements du spatial en France
+# 🚀 SpaceCal-fr.github.io 🚀
+## L'archive officielle de SpaceCal-Fr
 
-Bienvenue sur le dépôt officiel de **SpaceCal-Fr**, le site qui répertorie gratuitement tous les événements professionnels et grands publics du spatial se déroulant en France meétropolitaine et outre-mer.
+Bienvenue sur le dépôt officiel de **SpaceCal-Fr**, le site qui répertorie gratuitement tous les événements professionnels et grands publics du spatial se déroulant en France métropolitaine et outre-mer.
 
 ---
 
@@ -16,24 +17,31 @@ Les lettres hebdomaidaires sont organisées **par mois** dans le dossier [newsle
 <ins>Chaque dossier contient :</ins>
 
 - une version PDF prête à partager.
-- une version Markdown pour une lecture rapide.
+- une version Markdown pour une lecture rapide et confortable.
 
 
 ## 📥 Comment télécharger les newsletters ?
-Les fichiers PDF et Markdown sont hébergés via **GitHub Pages** et accessibles directement par ici
+Les fichiers PDF et Markdown sont hébergés ici sur **GitHub** et accessibles directement par ici
 👉 [Lien vers les newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters)
 
 ## 🌟 Contribuer
-Les contributions sont les bienvenues ! Ouvrez une issue ou une pull request pour :
+Les contributions sont les bienvenues !  
+Ouvrez une issue ou une pull request pour :
 
 - proposer des améliorations ;
 - signaler des erreurs ;
 - ajouter des fonctionnalités.
 
+Pour proposer un événement à ajouter sur le site, écrivez-nous à [event@spacecal.fr](mailto:event@spacecal.fr) en indiquant chaque fois que possible :  
+- la date et l'heure ;  
+- le titre et le sujet de l'événement ;  
+- le site officiel ;  
+- éventuellement une affiche si vous en avez une.
+
 
 ## 📅 Calendrier
 
-Publication : tous les dimanches soirs.  
-Source : les événements sont extraits du site 👉 https://www.spacecal.fr.
+Publication et mise à disposition : tous les dimanches soirs.  
+Source : les événements sont extraits du site 👉 [https://www.spacecal.fr](https://www.spacecal.fr).
 
 
