@@ -14,7 +14,7 @@ Sa date d'ouverture à la communauté est le 5 octobre 2025.
 
 ## 🗂️ Structure/Organisation
 
-Les lettres hebdomadaires sont organisées **par années/mois** dans le dossier [/docs/newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters).
+Les lettres hebdomadaires sont organisées **par années/mois** dans le dossier [/docs/newsletters](https://github.com/SpaceCal-Fr/spacecal-fr.github.io/tree/main/docs/newsletters).
 
 <ins>Chaque dossier contient :</ins>
 
@@ -24,7 +24,7 @@ Les lettres hebdomadaires sont organisées **par années/mois** dans le dossier 
 
 ## 📥 Comment télécharger les newsletters ?
 Les fichiers PDF et Markdown sont hébergés ici sur **GitHub** et accessibles directement par ici
-👉 [Lien vers les newsletters](https://github.com/SpaceCal-Fr/SpaceCal-Fr.github.io/tree/ba3b93c967085e9f70db8f9889a605459dd4c07c/docs/newsletters)
+👉 [Lien vers les newsletters](https://github.com/SpaceCal-Fr/spacecal-fr.github.io/tree/main/docs/newsletters)
 
 ## 🌟 Contribuer/Signaler/Proposer
 Les contributions sont les bienvenues !  
