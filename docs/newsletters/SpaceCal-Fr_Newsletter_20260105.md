@@ -35,7 +35,7 @@ Début à 18h30 à l'Hôtel des sociétés savantes, Bordeaux (33).
 
 1. ***L’aventure ROBUSTA-3A : concevoir, tester et opérer un CubeSat 3U pédagogique et technologique à visée scientifique*** : par Laurent Dusseau, Directeur du CSUM et de la Fondation Van Allen, et Tristan Allain, ingénieur spécialisé dans les systèmes spatiaux au CSUM, dans le cadre de la série de séminaires dédiés aux projets de nanosatellites scientifiques de la Fédération Nanosats. En ligne. Sur inscription.
 
-2. ***Les jeudis du CNAM*** : rencontre autour de l'ouvrage *"L'atlas historique du ciel"* avec Pierre Léna, astrophysicien, professeur émérite, Observatoire de Paris & Université Paris-Cité, pour l'Association française pour l’avancement des sciences (AFAS.
+2. ***Les jeudis du CNAM*** : rencontre autour de l'ouvrage *"L'atlas historique du ciel"* avec Pierre Léna, astrophysicien, professeur émérite, Observatoire de Paris & Université Paris-Cité, pour l'Association française pour l’avancement des sciences (AFAS).
 À 18h30 au CNAM, Paris (IIIe).
 
 
