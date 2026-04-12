@@ -1,5 +1,5 @@
 <div align="center">
-<img src="../../data/SpaceCal-fr-patch-couleur.jpg" alt="Logo de SpaceCal-Fr - L'agenda du spatial français" width="250" height="250">
+<img src="https://raw.githubusercontent.com/SpaceCal-Fr/SpaceCal-Fr.github.io/main/data/SpaceCal-fr-patch-couleur.jpg" alt="Logo de SpaceCal-Fr - L'agenda du spatial français" width="250" height="250">
 </div>
 # SpaceCal-Fr - Agenda des événements du spatial du 15 au 21 décembre 2025
     
