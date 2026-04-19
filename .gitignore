@@ -1,1 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+
+# Variables d'environnement
+.env
+.env.local
+*.env
+
+# Données générées
+output/
+
+# Claude Code
+.claude/
+**/.claude/
+
+# macOS
 .DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
