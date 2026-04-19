@@ -1,1 +1,19 @@
+# Variables d'environnement
+.env
+.env.local
+*.env
+
+# Données générées
+output/
+
+# Claude Code
+.claude/
+**/.claude/
+
+# macOS
 .DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
