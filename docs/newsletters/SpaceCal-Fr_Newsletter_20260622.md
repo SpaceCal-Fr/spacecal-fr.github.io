@@ -59,22 +59,26 @@ Début à 19h au Musée de Grenoble (38).
 
 
 ## Jeudi 25 juin
-4 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
+6 événements [(tous les liens sur SpaceCal-Fr)](https://www.spacecal.fr) :
 
 1. ***Journée « Spatial & préservation du littoral »*** : l’initiative « *Océan et Espace 2026* » s’inscrit dans le partenariat entre la Métropole Nice Côte d’Azur et le CNES pour promouvoir l’usage des technologies spatiales dans la connaissance et la protection des territoires.
 Lors de cette journée seront présentés une consolidation des besoins des collectivités littorales, les derniers travaux de l’Alliance Space4Ocean, les récentes avancées de la science sur le sujet, les démonstrateurs des services de l’appel d’offres France 2030 sur la connaissance et le suivi de la bande côtière et une toute nouvelle médiation scientifique sur l’eau dans l’espace.
 Avec des interventions d’experts du CNES, des laboratoires et des industriels.
 Dès 9h au Parc Phoenix - Salle Linné, Nice (06).
 
-2. ***Meet-up "Découverte de l'offre de prestation d'essais et contrôles non destructifs au sein d’ArianeGroup "*** : ArianeGroup propose aux membres Aerospace Valley une visite sur le site d’Issac d’une partie de son offre de prestations autour des thématiques des essais statiques, dynamiques, aérothermiques, spéciaux ainsi que la tomographie RX.
+2. ***Présentation des nœuds de résilience spatiale (SRN) de l’ESA*** : "*Comment les technologies spatiales peuvent-elles soutenir la gestion des crises et des catastrophes en Europe ?*" Webinaire ESA pour en savoir plus sur les Nœuds de Résilience Spatiale (SRN) dans le cadre du programme européen Résilience à l’Espace (ERS), permettant aux organisations de protection publique et de secours d’accéder rapidement et de partager des solutions spatiales avancées en cas de catastrophe. Dès 12h30 en ligne.
+
+3. ***Meet-up "Découverte de l'offre de prestation d'essais et contrôles non destructifs au sein d’ArianeGroup "*** : ArianeGroup propose aux membres Aerospace Valley une visite sur le site d’Issac d’une partie de son offre de prestations autour des thématiques des essais statiques, dynamiques, aérothermiques, spéciaux ainsi que la tomographie RX.
 Réservé aux membres d'Aerospace Valley.
 À 13h30 à ArianeGroup - Site d'Issac, Saint-Médard-en-Jalles (33).
 
-3. ***Cas d’usages imageries très haute résolution DINAMIS : applications sur le Littoral*** : webinaire Café ODATIS qui proposera une présentation de DINAMIS, Dispositif Institutionnel National d’Accès Mutualisé en Imagerie Satellitaire, une plate-forme d’acquisition et de diffusion de données spatiales d’observation de la Terre de l’IR Data Terra.
+4. ***Cas d’usages imageries très haute résolution DINAMIS : applications sur le Littoral*** : webinaire Café ODATIS qui proposera une présentation de DINAMIS, Dispositif Institutionnel National d’Accès Mutualisé en Imagerie Satellitaire, une plate-forme d’acquisition et de diffusion de données spatiales d’observation de la Terre de l’IR Data Terra.
 Présenté par Jean-François Faure, Imen Turki, Valentin Pillet.
 Lien disponible la veille sur la page de l'événement. Dès 13h30 en ligne.
 
-4. ***Orbites partagées, spectre partagé*** : événement dédié aux défis stratégiques liés à l’utilisation coordonnée des ressources spatiales et radiofréquences.
+5. ***Café virtuel DATA TERRA - THEIA*** : "*Phénologie, des indicateurs globaux à l'arbre*". Ce 3e webinaire sera consacré aux données de phénologie dans leur multiplicité et leur complémentarité, avec une présentation de Biophy, un nouveau produit spatial THEIA, et de protocoles de mesures in situ en contexte urbain. Avec Isabelle Soleilhavoup (CNES), Benjamin HUSSON (CNES) et Théo Le Saint (LETG, Rennes). À 13h30 en ligne.
+
+6. ***Orbites partagées, spectre partagé*** : événement dédié aux défis stratégiques liés à l’utilisation coordonnée des ressources spatiales et radiofréquences.
 Il réunira des experts institutionnels, techniques et juridiques autour de deux sujets clés : "*Orbites partagées : connaissance de la situation spatiale*" (13h30 – 15h00), modéré par Cécile Gaubert, associé chez De Gaulle Fleurance ; puis "*Spectre partagé : coordination des fréquences radio*" (15h30 – 17h00/17h30), modéré par Alban Guyomarc'h, vice-président de Spatio.
 Début à 13h30 chez De Gaulle Fleurance, Paris (VIIIe).
 
